@@ -1,3 +1,4 @@
 # wandz
+CI/CD
 
 ## file
