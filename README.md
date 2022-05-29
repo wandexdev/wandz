@@ -1,4 +1,5 @@
 # wandz
-CI/CD
 
-## file
+
+## files and Functions
+Deployments
