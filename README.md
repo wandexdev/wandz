@@ -1,7 +1,7 @@
 # wandz
 
 
-## files and Functions
+## files, prototypes and Functions
 Deployments
 ndjlskf;s
 
