@@ -40,6 +40,15 @@ Web servers
 
 
 
+### AWS Storage Portfolio
+- Object Storage
+ - S3
+  - 5TB max file size
+- Block storage
+ - EBS | Persistent
+
+
+
 
 
 
