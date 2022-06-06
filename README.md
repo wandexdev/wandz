@@ -18,7 +18,20 @@ _ EKS
 ### AWS  Global Infrastructure
 - Regions
 - Availability Zones ---> Collextion of multiple Data Centres
-- Edge Locations ---> CDN |
+- Edge Locations ---> CDN |a sa
+- Outposts
+
+### 3 ways to interact with AWS
+- console (GUI)
+- AWS CLI 
+- SDK
+
+
+Webservers
+App servers
+Database --> private
+Web servers 
+
 
 
 
