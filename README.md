@@ -33,6 +33,13 @@ Database --> private
 Web servers 
 
 
+## Networking on AWS
+- VPC
+ - subnets
+ - Route tables
+
+
+
 
 
 
