@@ -1,3 +1,13 @@
+### Compute on AWS
+- Virtual Machines (Hardware level Virtualization)
+    - EC2
+- Containers (OS / Kernel level Virtualization)
+    - ECS
+    - EKS
+- Serverless
+    - Lambda
+
+
 Container Routines
 - docker
 - containerd
