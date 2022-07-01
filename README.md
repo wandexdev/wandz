@@ -56,7 +56,7 @@ Web servers
   - 5TB max file size
 - Block storage
  - EBS | Persistent
-- d
+- here
 
 
 
